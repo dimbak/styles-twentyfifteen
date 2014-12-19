@@ -1,11 +1,19 @@
 === Styles: TwentyFifteen ===
+
 Contributors: Dimitris Bakalidis 
+
 Plugin URI: http://stylesplugin.com
+
 Author URI: http://pdclark.com
+
 Tags: css, stylesheet, appearance, customize, customizer, colors, color picker, background, fonts, google fonts, user interface, 2015, twenty fifteen
+
 Requires at least: 3.4
+
 Tested up to: 3.6
+
 Stable tag: 1.0
+
 
 
 Be creative with colors and fonts. Styles changes everything.
