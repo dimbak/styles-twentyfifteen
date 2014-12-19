@@ -2,7 +2,7 @@
 /*
 Plugin Name: Styles: TwentyFifteen
 Plugin URI: http://stylesplugin.com
-Description: Add Customize options to the <a href="http://wordpress.org/extend/themes/twentythirteen" target="_blank">TwentyThirteen theme</a> using the <a href="http://wordpress.org/extend/plugins/styles/" target="_blank">Styles plugin</a>.
+Description: Add Customize options to the <a href="http://wordpress.org/extend/themes/twentyfifteen" target="_blank">TwentyFifteen theme</a> using the <a href="http://wordpress.org/extend/plugins/styles/" target="_blank">Styles plugin</a>.
 Version: 1.0.6
 Author: Dimitris Bakalidis
 Author URI: http://pdclark.com
