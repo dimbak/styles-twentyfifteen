@@ -1,4 +1,4 @@
-=== Styles: TwentyThirteen ===
+=== Styles: TwentyThirteen11 ===
 Contributors: 10up, pdclark, elusivelight
 Plugin URI: http://stylesplugin.com
 Author URI: http://pdclark.com
