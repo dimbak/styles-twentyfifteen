@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Styles: TwentyFifteen
+Plugin Name: Styles: TwentyFifteen1
 Plugin URI: http://stylesplugin.com
 Description: Add Customize options to the <a href="http://wordpress.org/extend/themes/twentyfifteen" target="_blank">TwentyFifteen theme</a> using the <a href="http://wordpress.org/extend/plugins/styles/" target="_blank">Styles plugin</a>.
 Version: 1.0.6
